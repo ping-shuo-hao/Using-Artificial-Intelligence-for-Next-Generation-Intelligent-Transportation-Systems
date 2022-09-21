@@ -33,6 +33,7 @@ def get_list_of_objects(path):
     video = cv2.VideoCapture(path)
     ret, org = video.read()
     frame_num = 0
+    
     while ret:
         target = find_bbox(org)
         if len(target) > 0:
