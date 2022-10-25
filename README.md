@@ -31,7 +31,7 @@ For example, the possible format for return value: ('06/04/2021 11:27:17', '06/0
 
 
 ## Legal Occupier
-### Intro to algorithm
+### Algorithm Introduction
 This algorithm is used to determine whether a car/truck/person is a legal occupier. Please download both legalOccupier.py and worker_classifier.py. Also please install OpenCV library before running the code.
 
 ### Inputs
